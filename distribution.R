@@ -1,0 +1,7 @@
+library(dplyr)
+library(tidyverse)
+table8_33 <- read.csv("table8_33.csv")
+table8_33 <- read.csv("table8_33_clean.csv")
+table10_2 <- read.csv("table10_2_clean.csv")
+table8_18 <- read.csv("table8_18_clean.csv")
+table8_2 <- read.csv("table8_2_clean.csv")
